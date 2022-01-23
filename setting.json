@@ -32,7 +32,7 @@
         ".box__reserved.ivideo_box",
         ".box__reserved.fb_box.ac.mb20.bgwhite.bdr.facebook",
         ".box__reserved.mh10",
-        "div.ad-wrapper.outer.tablet-ad desktop-ad.full-column.karma-leaderboard-docking-element"
+        ".ad-sticky-container.desktop-ad.tablet-ad.karma-ad"
       ],
       "replace-string":[]
     }
