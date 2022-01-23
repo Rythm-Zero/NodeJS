@@ -2,7 +2,7 @@
   "name-web":"Rythm Zero",
   "author":"Alex",
   "remove-comment-html":true,
-  "target":"https://www.techwalla.com",
+  "target":"https://www.health.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"www.techwalla.com",
+      "target":"www.health.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
