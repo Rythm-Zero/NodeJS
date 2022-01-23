@@ -31,7 +31,8 @@
         ".box__reserved.mh60.sticky",
         ".box__reserved.ivideo_box",
         ".box__reserved.fb_box.ac.mb20.bgwhite.bdr.facebook",
-        ".box__reserved.mh10"
+        ".box__reserved.mh10",
+        "div.ad-wrapper.outer.tablet-ad desktop-ad.full-column.karma-leaderboard-docking-element"
       ],
       "replace-string":[]
     }
