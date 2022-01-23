@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Rythm Zero",
+  "author":"Alex",
   "remove-comment-html":true,
-  "target":"https://www.sheknows.com",
+  "target":"https://www.techwalla.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
